@@ -11,8 +11,6 @@
  
  - [X] Multi-Player Mode
  
- - [X] Multiple Chessboard Themes
- 
  - [X] Sound on Move
 
 ---
