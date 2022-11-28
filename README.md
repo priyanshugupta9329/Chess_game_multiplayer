@@ -13,8 +13,6 @@
  
  - [X] Multiple Chessboard Themes
  
- - [X] Real-Time Chatting With Opponent
- 
  - [X] Sound on Move
 
 ---
