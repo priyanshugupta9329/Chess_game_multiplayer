@@ -21,11 +21,11 @@
 
 ### Screenshots
 
-![](img/img1.png)
-![](img/img2.png)
-![](img/img3.png)
-![](img/img4.png)
-![](img/img5.png)
-![](img/img6.png)
+![](img/img1.PNG)
+![](img/img2.PNG)
+![](img/img3.PNG)
+![](img/img4.PNG)
+![](img/img5.PNG)
+![](img/img6.PNG)
 ---
 
